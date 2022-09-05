@@ -1,1 +1,1 @@
-Create a script that removes all letters c and C from input
+creates a file named exactly,containing the text Best School ending by a new line
